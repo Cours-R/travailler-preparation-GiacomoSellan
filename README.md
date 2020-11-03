@@ -1,4 +1,4 @@
-# My first GIT repository
+# Giacomo Sellan
 
 ![Logo EcoFoG](images/IMG_7320.jpg)
 
