@@ -1,6 +1,6 @@
-# Introduction du cours Travailler avec R
+# My first GIT repository
 
-![Logo EcoFoG](images/EcoFoG2020.png)
+![Logo EcoFoG](images/IMG_7320.jpg)
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 
